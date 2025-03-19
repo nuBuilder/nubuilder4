@@ -1,4 +1,4 @@
-# This repository is no longer maintained. Head over to [Sourceforge](https://sourceforge.net/projects/nubuilder/files/nuBuilder%204.5/) to download nuBuilder 4.5.
+# This repository is no longer maintained. Head over to [nuBuilder](https://github.com/nuBuilder/nuBuilder)
  
 === nuBuilder 4 ===
 
